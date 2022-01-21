@@ -2,7 +2,7 @@
 
 ## I'M ExpLang
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 * 👴 02年出生 性别男 爱好女
 * 📖 学历中专 16年毕业 从事信息安全5年
