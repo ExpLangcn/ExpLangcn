@@ -10,7 +10,6 @@
 * 💬 Email：ExpLang@yunjianxx.com
 * 💻 Web渗透，内网渗透，Python安全开发，易语言安全开发，工控安全，wifi安全，蓝牙安全，101协议、104协议，spicy语言，Wazuh，Zeek，linux，Windows等...
 * ⭐ [RedCode 公众号](http://mp.weixin.qq.com/profile?src=3&timestamp=1642735141&ver=1&signature=ddk4V-MtkklOYprrut2sH8LrAzl*mcpLDGUvw9iLlpfC9dm5Y*c6y4ZEfd2uhfUkIrJtEqKr53BUYxZm02DUVA==)，[寻云公众号](https://mp.weixin.qq.com/profile?src=3&timestamp=1642735114&ver=1&signature=XH47vvrgf2BpNUWQZt-*uWNsRT5qlUwQdN4BAjBNqAdzJHfD1XjBedUqH2-6qzrtTz6pi61sKEmBwBoa2KmEKA==)，[B站](https://space.bilibili.com/392628031)，[知乎](https://www.zhihu.com/people/ren-fa-48)，[Twitter](https://twitter.com/ExpLang_Cn)
-* 🏆 曾云剑侠心安全团队、叮咚信安安全团队负责人，现RedCode安全团队、寻云安全团队负责人.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
