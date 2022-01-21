@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 * 👴 02年出生 性别男 爱好女
-* 📖 学历中专 16年毕业 从事信息安全5年
+* 📖 从事信息安全5年
 * ⚡️ 键盘侠 暴躁喷子 活在当下 做自己爱做的事
 * 💬 Email：ExpLang@yunjianxx.com
 * 💻 Web渗透，内网渗透，Python安全开发，易语言安全开发，工控安全，wifi安全，蓝牙安全，101协议、104协议，spicy语言，Wazuh，Zeek，linux，Windows等...
