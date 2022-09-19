@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact)](https://twitter.com/ExpLang_Cn) -->
 
 <div>
-  <a href="http://note.zhangjc.cn/">
+  <a href="https://twitter.com/ExpLang_Cn">
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact" />
   </a>
   <a href="https://github.com/ExpLangcn/ExpLangcn/edit/main/README.md">
