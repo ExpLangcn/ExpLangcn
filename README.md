@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=ExpLangcn)
 
-- 😄 I’m Zhangjicheng
-- 📫 email：zhangjichengcc@163.com
+- 😄 I’m ExpLang
 
 ---
 
