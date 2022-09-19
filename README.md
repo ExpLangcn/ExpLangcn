@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 ---
 
 <!-- 
-[![ZhangJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExpLangcn)](https://twitter.com/ExpLang_Cn)
+[![ExpLangcn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ExpLangcn)](https://twitter.com/ExpLang_Cn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact)](https://twitter.com/ExpLang_Cn) -->
 
 <div>
   <a href="http://note.zhangjc.cn/">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact" />
   </a>
   <a href="https://github.com/ExpLangcn/ExpLangcn/edit/main/README.md">
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=zhangjichengcc&show_icons=true&count_private=true" />
