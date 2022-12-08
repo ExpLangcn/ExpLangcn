@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=ExpLangcn)
-
+[Discord社区](https://t.me/sec_info](https://discord.gg/mnD8pbU4Zw)
 - 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)
 - 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
 
