@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=ExpLangcn)
-[Discord社区](https://t.me/sec_info](https://discord.gg/mnD8pbU4Zw)
-- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)
-- 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
 
-[Discord社区](https://t.me/sec_info](https://discord.gg/mnD8pbU4Zw) **实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
+- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)、[**Discord社区**](https://discord.gg/mnD8pbU4Zw)**实时更新国内外700+个黑客安全技术论坛/社区/博客/公众号的技术文章.自动推送最新的CVE漏洞、CNVD漏洞、最新的红队工具等。**
+- 我的后续安全项目将会发布在：**[Security-Magic-Weapon 组织](https://github.com/Security-Magic-Weapon) 点击查看！**
 
 ### 我的个人知识星球
 
