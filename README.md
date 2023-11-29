@@ -10,9 +10,9 @@
 
 <div>
   <a href="https://twitter.com/ExpLang_Cn">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact" />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpLangcn&layout=compact" />
   </a>
   <a href="https://twitter.com/ExpLang_Cn">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=ExpLangcn&show_icons=true&count_private=true" />
+    <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=ExpLangcn&show_icons=true&count_private=true" />
   </a>
 </div>
