@@ -2,16 +2,10 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/ExpLangcn/count.svg)
 
-<div>
-    <p>🛡️ I am a security researcher from China working on cyber security and Red Team tools dev.
-    <br/>
-    <p>👾 I hope to find a confidant to learn and make progress together.
-    <br/>
-    <p>🔥Follow my [Twitter] (https://twitter.com/ExpLang_Cn) account to quickly know what I'm doing, I'm waiting for your attention!
-    <br/>
-
-    <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
-</div>
+- 🛡️ I am a security researcher from China working on cyber security and Red Team tools dev.
+- 👾 I hope to find a confidant to learn and make progress together.
+- 🔥Follow my [Twitter] (https://twitter.com/ExpLang_Cn) account to quickly know what I'm doing, I'm waiting for your attention!
+  
 ---
 
 <div>
