@@ -1,10 +1,11 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-### Hi there 👋
 ![Visitor Count](https://profile-counter.glitch.me/ExpLangcn/count.svg)
 
-- 😄 **I’m ExpLang [点击关注 Twitter](https://twitter.com/ExpLang_Cn) 以便快速了解我的动态.**
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+- 🛡️ I am a security researcher from China working on cyber security and Red Team tools dev.
+- 👾 I hope to find a confidant to learn and make progress together.
+- 🔥Follow my [Twitter] (https://twitter.com/ExpLang_Cn) account to quickly know what I'm doing, I'm waiting for your attention!
+    <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 ---
 
 <div>
