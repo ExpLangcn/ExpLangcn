@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ExpLangcn)
 
-- 😄 I’m ExpLang [**Twitter**](https://twitter.com/ExpLang_Cn)
+- 😄 I’m ExpLang **[点击关注 Twitter](https://twitter.com/ExpLang_Cn) 以便快速了解我的动态.**
 
 ---
 
