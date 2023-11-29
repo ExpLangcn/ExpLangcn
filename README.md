@@ -16,3 +16,5 @@
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=ExpLangcn&show_icons=true&count_private=true" />
   </a>
 </div>
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ExpLang_Cn&theme=dracula)
