@@ -7,7 +7,7 @@
 - 👾 I hope to find a confidant to learn and make progress together.
 - 👾 **我希望找到一个知己来一起学习和进步。**
 - 🔥 Follow my [**Twitter**](https://twitter.com/ExpLang_Cn) account to quickly know what I'm doing, I'm waiting for your attention!
-- 🔥 **关注我的[Twitter]（https://twitter.com/ExpLang_Cn）帐户，快速了解我在做什么，我正在等待您的关注！**
+- 🔥 **关注我的[Twitter](https://twitter.com/ExpLang_Cn)帐户，快速了解我在做什么，我正在等待您的关注！**
   
 ---
 
